@@ -11,3 +11,33 @@ CRITICAL:root:This is a critical message
 2024-10-19 16:10:03,126 - root - WARNING - This is a warning message
 2024-10-19 16:10:03,126 - root - ERROR - This is an error message
 2024-10-19 16:10:03,126 - root - CRITICAL - This is a critical message
+2024-10-23 10:19:11,848 - root - INFO - This is an info message
+2024-10-23 10:19:11,848 - root - WARNING - This is a warning message
+2024-10-23 10:19:11,849 - root - ERROR - This is an error message
+2024-10-23 10:19:11,849 - root - CRITICAL - This is a critical message
+2024-10-23 10:35:09,671 - root - INFO - This is an info message
+2024-10-23 10:35:09,671 - root - WARNING - This is a warning message
+2024-10-23 10:35:09,671 - root - ERROR - This is an error message
+2024-10-23 10:35:09,671 - root - CRITICAL - This is a critical message
+2024-10-23 10:35:48,066 - root - INFO - This is an info message
+2024-10-23 10:35:48,066 - root - WARNING - This is a warning message
+2024-10-23 10:35:48,066 - root - ERROR - This is an error message
+2024-10-23 10:35:48,066 - root - CRITICAL - This is a critical message
+2024-10-23 10:36:01,150 - root - INFO - This is an info message
+2024-10-23 10:36:01,151 - root - WARNING - This is a warning message
+2024-10-23 10:36:01,151 - root - ERROR - This is an error message
+2024-10-23 10:36:01,151 - root - CRITICAL - This is a critical message
+2024-10-23 10:36:26,521 - root - INFO - This is an info message
+2024-10-23 10:36:26,521 - root - WARNING - This is a warning message
+2024-10-23 10:36:26,521 - root - ERROR - This is an error message
+2024-10-23 10:36:26,521 - root - CRITICAL - This is a critical message
+2024-10-23 10:37:05,683 - root - INFO - customer, This is an info message
+2024-10-23 10:37:05,683 - root - WARNING - This is a warning message
+2024-10-23 10:37:05,684 - root - ERROR - This is an error message
+2024-10-23 10:37:05,684 - root - CRITICAL - This is a critical message
+2024-10-23 10:39:19,641 - root - INFO - This is a debug message
+2024-10-23 10:39:51,166 - root - INFO - This is a debug message
+2024-10-23 10:42:35,053 - root - INFO - John
+2024-10-23 10:45:16,996 - root - INFO - fd-fdf-fdf-dfd
+2024-10-23 10:45:40,313 - root - INFO - Cathy-4500-4300-UPI
+2024-10-23 10:47:00,615 - root - INFO - Name:JOhn-OrderValue:4700-Mode:3000-Payment:Credit Cart

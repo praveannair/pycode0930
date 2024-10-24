@@ -1,0 +1,15 @@
+import logging
+logging.basicConfig(filename='app.log',level=logging.INFO,format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+while True:
+    try:
+        customer=input("Enter Customer Name")
+        orderValue=input("Order Value")
+        paymentMode = input("Payment Mode")
+        payment=input("Enter Payment")
+        choice=input("Continue(y/n)")
+        if ch!="y":
+            break
+    except:
+        print("Something Went Wrong")
+        logging.info(f'Name:{customer}-OrderValue:{orderValue}-Mode:{paymentMode}-Payment:{payment}')
+        break
